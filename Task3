@@ -1,0 +1,24 @@
+Task 3: Password Generator
+
+In this task, we will create a Python-based password generator that allows users to specify the length of the password and optionally the complexity (such as including uppercase letters, lowercase letters, digits, and special characters).
+
+The following steps will guide you through building this password generator:
+
+Steps to Implement:
+
+     *Prompt the user to specify the desired length of the password.
+     *Generate the password using random combinations of characters (letters, digits, and symbols).
+     *Display the generated password on the screen.
+
+We'll use Python's random and string libraries to generate the password.
+
+Features and Improvements:
+
+    *Password Length:
+          The user can specify any length for the password (greater than or equal to 6 for security reasons).
+
+    *Custom Complexity:
+          The user can choose whether to include uppercase letters, digits, and special characters in the generated password.
+
+    *Security: 
+          The generated passwords are random and complex, ensuring a higher level of security. You can further enhance security by generating a longer password (e.g., 16 characters or more).
