@@ -1,0 +1,28 @@
+Task 5: Contact Management System
+
+In this task, we will create a Contact Management System that allows users to manage their contacts. The system will allow users to:
+
+    *Store contact information, including name, phone number, email, and address.
+    *Add new contacts.
+    *View a list of saved contacts.
+    *Search for contacts by name or phone number.
+    *Update contact details.
+    *Delete contacts.
+We'll build a command-line interface for this application, and we will store the contact data in a list of dictionaries, where each dictionary represents a contact.
+
+Features to Implement:
+
+    *Store Contact Information: 
+         Each contact will include the name, phone number, email, and address.
+    *Add a New Contact: 
+         Users can add new contacts with their details.
+    *View Contact List: 
+         Users can view a list of saved contacts, displaying names and phone numbers.
+    *Search Contacts:
+         Users can search for a contact by name or phone number.
+    *Update Contact:
+         Users can update a contact's details.
+    *Delete Contact: 
+         Users can delete a contact from the list.
+    *User Interface:
+         A simple, user-friendly command-line interface.
