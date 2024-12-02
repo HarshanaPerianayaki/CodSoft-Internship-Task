@@ -1,0 +1,32 @@
+Task 2: Design a Simple Calculator with Basic Arithmetic Operations.
+
+In this task, we'll design a simple command-line calculator that performs basic arithmetic operations like addition, subtraction, multiplication, and division.
+
+Steps to implement the calculator:
+
+       *Prompt the user for input:
+             Ask the user to input two numbers.
+             Ask the user to choose an arithmetic operation (addition, subtraction, multiplication, or division).
+
+       *Perform the calculation:
+             Depending on the chosen operation, perform the corresponding arithmetic calculation.
+
+       *Display the result:
+             Show the result of the calculation.
+
+       *Error handling:
+             Handle errors like division by zero or invalid input.
+
+Features and Improvements:
+
+        *Input Validation:
+             The program handles invalid inputs (like non-numeric values) using a try-except block.
+
+        *Error Handling for Division: 
+             The calculator avoids division by zero errors and provides a meaningful message.
+
+        *Reusability:
+             The calculator allows multiple calculations in a loop, making it user-friendly.
+
+        *Extensibility: 
+             You can easily extend the calculator with more operations (like exponentiation, modulus, etc.) if needed.
