@@ -1,0 +1,22 @@
+Task 1: TO-DO LIST
+
+A To-Do List application is a useful project that helps users manage and organize their tasks efficiently. 
+This project aims to create a command-line or GUI-based application using Python, allowing users to create, update, and track their to-do lists.
+
+1. Command-Line To-Do List Application
+
+    In this version, users will interact with the application through the command line by typing in commands.
+
+    Steps to implement:
+       
+          *Define the Task Class:
+                This class will represent each task with attributes like title, description, and completion status.
+
+          *Task Management Functions:
+                Functions to add, remove, list, update, and mark tasks as completed.
+
+          *Storage:
+                Store the tasks in a list or use a file to persist them across sessions (for example, a simple text file or JSON file).
+
+          *User Interface:
+                Provide a simple menu-driven interface to allow the user to interact with the app.
