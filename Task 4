@@ -1,0 +1,29 @@
+TASK 4 : Rock-Paper-Scissors Game
+
+In this task, we'll create a Rock, Paper, Scissors game where the user plays against the computer. The game will involve several key components:
+
+    1.User Input: The user will choose between rock, paper, or scissors.
+    2.Computer Selection: The computer will randomly pick one of the three choices.
+    3.Game Logic: Based on the choices, the game will determine the winner using the rules of Rock, Paper, Scissors:
+                    Rock beats Scissors.
+                    Scissors beat Paper.
+                    Paper beats Rock.
+    4.Result Display: The game will show both the user's and the computer's choices and display whether the user wins, loses, or ties.
+    5.Score Tracking (Optional): Keep track of the score for multiple rounds.
+    6.Play Again: Ask the user if they want to play another round.
+    7.User Interface: The interface will be simple and clear, with prompts and results displayed at each step.
+
+Steps to Implement the Game:
+
+    *Prompt the User for Input:
+         Ask the user to choose between rock, paper, or scissors.
+    *Generate Computer's Choice: 
+         Randomly generate the computer's choice.
+    *Determine the Winner:
+         Compare the choices and determine who won or if it's a tie.
+    *Display the Result:
+         Show the user's choice, the computer's choice, and the result.
+    *Track Scores (Optional):
+         Keep a running score and display the scores after each round.
+    *Play Again: 
+         Ask the user if they want to play another round.
